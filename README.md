@@ -30,12 +30,14 @@ A simple Instagram-like application built using **TypeScript**, **Node.js**, and
 
 1. **Clone the repository**
 
-```bash
 git clone https://github.com/yourusername/mini-instagram-clone.git
 cd mini-instagram-clone
-## 📌 Notes
-This version does not include Stories.
 
+
+
+##   📌 Notes
+This version does not include Stories.
+  
 Admin users can manage other users (ban/block, change roles).
 
 You can use Cloudinary or similar for storing uploaded images.

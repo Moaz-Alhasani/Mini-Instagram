@@ -30,7 +30,7 @@ A simple Instagram-like application built using **TypeScript**, **Node.js**, and
 
 1. **Clone the repository**
 
-git clone https://github.com/yourusername/mini-instagram-clone.git
+git clone https://github.com/Moaz-Alhasani/mini-instagram-clone.git
 cd mini-instagram-clone
 
 
